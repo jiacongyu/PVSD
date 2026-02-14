@@ -9,3 +9,8 @@
 ### 2. 显著性目标检测(SOD)
 - **Consistency perception network for 360◦  omnidirectional salient object detection**  [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224020149)
 - **Breaking the Dataset Shackles: Data-Efficient Learning with Mamba Network for 360° Salient Object Detection**   [Paper](https://iopscience.iop.org/article/10.1088/1742-6596/3072/1/012004/meta)
+
+## 全景视频（ODV）
+### 1. 显著性预测(SP)
+- **Spherical Vision Transformers for Audio-Visual Saliency Prediction in 360→ Videos**  [Paper](https://ieeexplore.ieee.org/abstract/document/11144923)
+- **CASP: Consistency-aware Audio-induced Saliency Prediction Model for Omnidirectional Video**  [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wan_CASP_Consistency-aware_Audio-induced_Saliency_Prediction_Model_for_Omnidirectional_Video_CVPR_2025_paper.html)
