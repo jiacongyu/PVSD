@@ -19,5 +19,7 @@
 - **PAV-SOD: A New Task towards Panoramic Audio visual Saliency Detection**  [Paper](https://dl.acm.org/doi/abs/10.1145/3565267)
 
 ## 数据集
+### 全景图像（ODI）
+- **ODI-SOD** [Code](https://github.com/iCVTEAM/ODI-SOD)
+### 全景视频（ODV）
 - **PAV-SOD** [Code](https://github.com/ZHANG-Jun-Pu/PAV-SOD)
-
