@@ -3,3 +3,4 @@
 
 ## 全景图像（ODI）
 ### 1. 显著性预测
+[From Haziness to Clarity: A Novel Iterative Memory-Retrospective Emergence Model for Omnidirectional Image Saliency Prediction](https://ieeexplore.ieee.org/abstract/document/11045255/)
