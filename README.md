@@ -1,3 +1,3 @@
-# PVSD
-全景视觉显著性检测：原理、方法与应用综述/Panoramic Visual Saliency Detection: A Survey of Principles, Methods and Applications
+# 全景视觉显著性检测：原理、方法与应用综述/Panoramic Visual Saliency Detection: A Survey of Principles, Methods and Applications
+
 # &diams; 全景视觉显著性检测（Panoramic Visual Saliency Detection）
