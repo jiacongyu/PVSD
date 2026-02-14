@@ -14,3 +14,6 @@
 ### 1. 显著性预测(SP)
 - **Spherical Vision Transformers for Audio-Visual Saliency Prediction in 360→ Videos**  [Paper](https://ieeexplore.ieee.org/abstract/document/11144923) [Code](https://cyberiada.github.io/SalViT360/)
 - **CASP: Consistency-aware Audio-induced Saliency Prediction Model for Omnidirectional Video**  [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wan_CASP_Consistency-aware_Audio-induced_Saliency_Prediction_Model_for_Omnidirectional_Video_CVPR_2025_paper.html)
+### 2. 显著性目标检测(SOD)
+- **Instance-Level Panoramic Audio-Visual Saliency Detection and Ranking**  [Paper](https://dl.acm.org/doi/abs/10.1145/3664647.3681070)
+- **PAV-SOD: A New Task towards Panoramic Audio visual Saliency Detection**  [Paper](https://dl.acm.org/doi/abs/10.1145/3565267)
