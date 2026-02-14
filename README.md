@@ -1,3 +1,2 @@
-# 全景视觉显著性检测：原理、方法与应用综述/Panoramic Visual Saliency Detection: A Survey of Principles, Methods and Applications
-
-# &diams; 全景视觉显著性检测（Panoramic Visual Saliency Detection）
+# 全景视觉显著性检测（Panoramic Visual Saliency Detection）
+<img src="./assets/image/t2.png" width="700" alt="投影方式对比">
