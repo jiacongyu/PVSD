@@ -1,6 +1,9 @@
 # 全景视觉显著性检测（Panoramic Visual Saliency Detection）
 <img src="./assets/images/t2.png" width="700" alt="投影方式对比">
 
+## 引言
+全景图像（ODI）数据具有360°×180°的视场范围，凭借其沉浸式体验优势，已在医疗、教育、娱乐等领域获得广泛关注。本综述系统梳理了2017-2025年深度学习技术在全景视觉显著性检测领域的最新进展，涵盖CNN、Transformer、LSTM等架构及多投影域建模方法。
+我们创建此开源仓库，旨在为综述中提及的所有工作提供分类整理与代码链接，方便研究者快速追踪该领域的技术演进。我们将持续更新此仓库，尽可能收录最新研究成果，以期为全景视觉研究提供参考，并促进该领域研究社区的交流与发展。
 ## 全景图像（ODI）
 ### 1. 显著性预测(SP)
 - **From Haziness to Clarity: A Novel Iterative Memory-Retrospective Emergence Model for Omnidirectional Image Saliency Prediction**  [Paper](https://ieeexplore.ieee.org/abstract/document/11045255/)
