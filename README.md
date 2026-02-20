@@ -6,12 +6,21 @@
 我们创建此开源仓库，旨在为综述中提及的所有工作提供分类整理与代码链接，方便研究者快速追踪该领域的技术演进。我们将持续更新此仓库，尽可能收录最新研究成果，以期为全景视觉研究提供参考，并促进该领域研究社区的交流与发展。
 ## 全景图像（ODI）
 ### 1. 显著性预测(SP)
-- **From Haziness to Clarity: A Novel Iterative Memory-Retrospective Emergence Model for Omnidirectional Image Saliency Prediction**  [Paper](https://ieeexplore.ieee.org/abstract/document/11045255/)
+#### 传统方法
+- **A novel superpixel-based saliency detection model for 360-degree images**  [Paper](https://www.sciencedirect.com/science/article/pii/S0923596518307379)（2018）
+- **A saliency prediction model on 360 degree images using color dictionary based sparse representation**  [Paper](https://www.sciencedirect.com/science/article/pii/S0923596518302418)（2018）
+- **GBVS360, BMS360, ProSal: Extending existing saliency prediction models from 2D to omnidirectional images**  [Paper](https://www.sciencedirect.com/science/article/pii/S0923596518302406)（2018）
+#### 深度学习方法
+- **Saliency in VR: How do people explore virtual environments?**  [Paper](https://ieeexplore.ieee.org/abstract/document/8269807/)（2025）
+- **From Haziness to Clarity: A Novel Iterative Memory-Retrospective Emergence Model for Omnidirectional Image Saliency Prediction**  [Paper](https://ieeexplore.ieee.org/abstract/document/11045255/)（2025）
 - **Multi-scale graph feature extraction network for panoramic image saliency detection**   [Paper](https://link.springer.com/article/10.1007/s00371-023-02825-x)
 
 ### 2. 显著性目标检测(SOD)
-- **Consistency perception network for 360◦  omnidirectional salient object detection**  [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224020149)
-- **Breaking the Dataset Shackles: Data-Efficient Learning with Mamba Network for 360° Salient Object Detection**   [Paper](https://iopscience.iop.org/article/10.1088/1742-6596/3072/1/012004/meta)
+#### 传统方法
+- **Automatic Salient Object Detection for Panoramic Images Using Region Growing and Fixation Prediction Model**  [Paper](https://arxiv.org/abs/1710.04071)（2018）
+#### 深度学习方法
+- **Consistency perception network for 360◦  omnidirectional salient object detection**  [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224020149)（2025）
+- **Breaking the Dataset Shackles: Data-Efficient Learning with Mamba Network for 360° Salient Object Detection**   [Paper](https://iopscience.iop.org/article/10.1088/1742-6596/3072/1/012004/meta)（2025）
 
 ## 全景视频（ODV）
 ### 1. 显著性预测(SP)
