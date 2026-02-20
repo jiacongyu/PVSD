@@ -11,7 +11,7 @@
 - **A saliency prediction model on 360 degree images using color dictionary based sparse representation**  [Paper](https://www.sciencedirect.com/science/article/pii/S0923596518302418)（2018）
 - **GBVS360, BMS360, ProSal: Extending existing saliency prediction models from 2D to omnidirectional images**  [Paper](https://www.sciencedirect.com/science/article/pii/S0923596518302406)（2018）
 #### 深度学习方法
-- **Saliency in VR: How do people explore virtual environments?**  [Paper](https://ieeexplore.ieee.org/abstract/document/8269807/)[Code](https://github.com/vsitzmann/vr-saliency)（2018）
+- **Saliency in VR: How do people explore virtual environments?**  [Paper](https://ieeexplore.ieee.org/abstract/document/8269807/) [Code](https://github.com/vsitzmann/vr-saliency)（2018）
 - **SalNet360: Saliency Maps for omni-directional images with CNN**  [Paper](https://www.sciencedirect.com/science/article/pii/S0923596518304685)（2018）
 - **From Haziness to Clarity: A Novel Iterative Memory-Retrospective Emergence Model for Omnidirectional Image Saliency Prediction**  [Paper](https://ieeexplore.ieee.org/abstract/document/11045255/)（2025）
 - **Multi-scale graph feature extraction network for panoramic image saliency detection**   [Paper](https://link.springer.com/article/10.1007/s00371-023-02825-x)
