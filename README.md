@@ -11,7 +11,7 @@
 - **A saliency prediction model on 360 degree images using color dictionary based sparse representation**  [Paper](https://www.sciencedirect.com/science/article/pii/S0923596518302418)（2018）
 - **GBVS360, BMS360, ProSal: Extending existing saliency prediction models from 2D to omnidirectional images**  [Paper](https://www.sciencedirect.com/science/article/pii/S0923596518302406)（2018）
 #### 深度学习方法
-- **Saliency in VR: How do people explore virtual environments?**  [Paper](https://ieeexplore.ieee.org/abstract/document/8269807/)（2025）
+- **Saliency in VR: How do people explore virtual environments?**  [Paper](https://ieeexplore.ieee.org/abstract/document/8269807/)[Code](https://github.com/vsitzmann/vr-saliency)（2018）
 - **From Haziness to Clarity: A Novel Iterative Memory-Retrospective Emergence Model for Omnidirectional Image Saliency Prediction**  [Paper](https://ieeexplore.ieee.org/abstract/document/11045255/)（2025）
 - **Multi-scale graph feature extraction network for panoramic image saliency detection**   [Paper](https://link.springer.com/article/10.1007/s00371-023-02825-x)
 
@@ -31,7 +31,11 @@
 - **PAV-SOD: A New Task towards Panoramic Audio visual Saliency Detection**  [Paper](https://dl.acm.org/doi/abs/10.1145/3565267)
 
 ## 全景显著性检测数据集
-### 全景图像（ODI）
+### 显著性预测(SP)数据集
+#### 全景图像（ODI）
+- **Saliency in VR** [dataset](https://drive.google.com/file/d/1BHtigR_egB6E-N4irZA9wSAH_902_PBh/view?usp=sharing)
+### 显著性目标检测(SOD)数据集
+#### 全景图像（ODI）
 - **ODI-SOD** [dataset](https://github.com/iCVTEAM/ODI-SOD)
-### 全景视频（ODV）
+#### 全景视频（ODV）
 - **PAV-SOD** [dataset](https://github.com/ZHANG-Jun-Pu/PAV-SOD)
