@@ -23,6 +23,6 @@
 
 ## 全景显著性检测数据集
 ### 全景图像（ODI）
-- **ODI-SOD** [Code](https://github.com/iCVTEAM/ODI-SOD)
+- **ODI-SOD** [dataset](https://github.com/iCVTEAM/ODI-SOD)
 ### 全景视频（ODV）
-- **PAV-SOD** [Code](https://github.com/ZHANG-Jun-Pu/PAV-SOD)
+- **PAV-SOD** [dataset](https://github.com/ZHANG-Jun-Pu/PAV-SOD)
