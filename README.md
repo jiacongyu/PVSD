@@ -13,6 +13,7 @@
 #### 深度学习方法
 - **Saliency in VR: How do people explore virtual environments?**  [Paper](https://ieeexplore.ieee.org/abstract/document/8269807/) [Code](https://github.com/vsitzmann/vr-saliency)（2018）
 - **SalNet360: Saliency Maps for omni-directional images with CNN**  [Paper](https://www.sciencedirect.com/science/article/pii/S0923596518304685)（2018）
+- **A Content-Based Approach for Saliency Estimation in 360 Images**  [Paper](https://ieeexplore.ieee.org/abstract/document/8803296)（2018）
 - **From Haziness to Clarity: A Novel Iterative Memory-Retrospective Emergence Model for Omnidirectional Image Saliency Prediction**  [Paper](https://ieeexplore.ieee.org/abstract/document/11045255/)（2025）
 - **Multi-scale graph feature extraction network for panoramic image saliency detection**   [Paper](https://link.springer.com/article/10.1007/s00371-023-02825-x)
 
@@ -25,8 +26,11 @@
 
 ## 全景视频（ODV）
 ### 1. 显著性预测(SP)
+#### 深度学习方法
+- **Your Attention is Unique: Detecting 360-Degree Video Saliency in Head-Mounted Display for Head Movement Prediction**  [Paper](https://dl.acm.org/doi/abs/10.1145/3240508.3240669) [Code](https://github.com/phananh1010/PanoSalNet)（2018）
+- **Saliency Detection in 360◦ Videos**  [Paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Ziheng_Zhang_Saliency_Detection_in_ECCV_2018_paper.html) [Code](https://github.com/xuyanyu-shh/Saliency-detection-in-360-video)（2018）
 - **Spherical Vision Transformers for Audio-Visual Saliency Prediction in 360→ Videos**  [Paper](https://ieeexplore.ieee.org/abstract/document/11144923) [Code](https://cyberiada.github.io/SalViT360/)
-- **CASP: Consistency-aware Audio-induced Saliency Prediction Model for Omnidirectional Video**  [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wan_CASP_Consistency-aware_Audio-induced_Saliency_Prediction_Model_for_Omnidirectional_Video_CVPR_2025_paper.html)
+- **CASP: Consistency-aware Audio-induced Saliency Prediction Model for Omnidirectional Video**  [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wan_CASP_Consistency-aware_Audio-induced_Saliency_Prediction_Model_for_Omnidirectional_Video_CVPR_2025_paper.html)（2025）
 ### 2. 显著性目标检测(SOD)
 - **Instance-Level Panoramic Audio-Visual Saliency Detection and Ranking**  [Paper](https://dl.acm.org/doi/abs/10.1145/3664647.3681070)
 - **PAV-SOD: A New Task towards Panoramic Audio visual Saliency Detection**  [Paper](https://dl.acm.org/doi/abs/10.1145/3565267)
@@ -35,6 +39,8 @@
 ### 显著性预测(SP)数据集
 #### 全景图像（ODI）
 - **Saliency in VR** [dataset](https://drive.google.com/file/d/1BHtigR_egB6E-N4irZA9wSAH_902_PBh/view?usp=sharing)
+#### 全景视频（ODV）
+- **Saliency in VR** [dataset,code:p0a5](https://pan.baidu.com/s/18equcFntAomwEEP3TgHhFw)
 ### 显著性目标检测(SOD)数据集
 #### 全景图像（ODI）
 - **ODI-SOD** [dataset](https://github.com/iCVTEAM/ODI-SOD)
