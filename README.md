@@ -15,6 +15,10 @@
 - **Saliency in VR: How do people explore virtual environments?**  [Paper](https://ieeexplore.ieee.org/abstract/document/8269807/) [Code](https://github.com/vsitzmann/vr-saliency)（2018）
 - **SalNet360: Saliency Maps for omni-directional images with CNN**  [Paper](https://www.sciencedirect.com/science/article/pii/S0923596518304685)（2018）
 - **A Content-Based Approach for Saliency Estimation in 360 Images**  [Paper](https://ieeexplore.ieee.org/abstract/document/8803296)（2018）
+- **Panoramic convolutions for 360o single-image saliency prediction**  [Paper](http://graphics.unizar.es/papers/Martin-VR-Saliency-2020.pdf)（2020）
+- **SalBiNet360: Saliency Prediction on 360° Images with Local-Global Bifurcated Deep Network**  [Paper](https://ieeexplore.ieee.org/abstract/document/9089519/) [Code](https://github.com/githubcbob/SalBiNet360)（2020）
+- **SalGCN: Saliency Prediction for 360-Degree ImagesBased on Spherical Graph**  [Paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413733)（2020）
+- **Dilated Convolutional Neural Networks for Panoramic Image Saliency Prediction**  [Paper](https://ieeexplore.ieee.org/abstract/document/9053888/)（2020）
 - **From Haziness to Clarity: A Novel Iterative Memory-Retrospective Emergence Model for Omnidirectional Image Saliency Prediction**  [Paper](https://ieeexplore.ieee.org/abstract/document/11045255/)（2025）
 - **Multi-scale graph feature extraction network for panoramic image saliency detection**   [Paper](https://link.springer.com/article/10.1007/s00371-023-02825-x)
 
@@ -23,6 +27,8 @@
 - **Automatic Salient Object Detection for Panoramic Images Using Region Growing and Fixation Prediction Model**  [Paper](https://arxiv.org/abs/1710.04071)（2018）
 #### 深度学习方法
 - **Distortion-adaptive Salient Object Detection in 360 Omnidirectional Images**  [Paper](https://ieeexplore.ieee.org/abstract/document/8926489/) [Code]（2019）
+- **FANet: Features Adaptation Network for 360◦ Omnidirectional Salient Object Detection**  [Paper](https://ieeexplore.ieee.org/abstract/document/9211754/) [Code](https://github.com/DreaMKHuang/FANet.git)（2020）
+- **Stage-wise Salient Object Detection in 360° Omnidirectional Image via Object-level Semantical Saliency Ranking**  [Paper](https://ieeexplore.ieee.org/abstract/document/9199564/) [Code](https://github.com/360-SSOD/download/tree/main)（2018）
 - **Consistency perception network for 360◦  omnidirectional salient object detection**  [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224020149)（2025）
 - **Breaking the Dataset Shackles: Data-Efficient Learning with Mamba Network for 360° Salient Object Detection**   [Paper](https://iopscience.iop.org/article/10.1088/1742-6596/3072/1/012004/meta)（2025）
 
@@ -33,6 +39,11 @@
 - **Saliency Detection in 360◦ Videos**  [Paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Ziheng_Zhang_Saliency_Detection_in_ECCV_2018_paper.html) [Code](https://github.com/xuyanyu-shh/Saliency-detection-in-360-video)（2018）
 - **Cube Padding for Weakly-Supervised Saliency Prediction in 360 Videos**  [Paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Cheng_Cube_Padding_for_CVPR_2018_paper.html) [Code](https://github.com/hsientzucheng/CP-360-Weakly-Supervised-Saliency)（2018）
 - **Predicting Head Movement in Panoramic Video: A Deep Reinforcement Learning Approach**  [Paper](https://ieeexplore.ieee.org/abstract/document/8418756/) [Code](https://github.com/YuhangSong/DHP)（2018）
+- **Saliency Prediction for 360-degree Video**  [Paper](https://ieeexplore.ieee.org/abstract/document/9303135/)（2020）
+- **Towards Audio-Visual Saliency Prediction for Omnidirectional Video with Spatial Audio**  [Paper](https://ieeexplore.ieee.org/abstract/document/9301766/)（2020）
+- **ATSal: An Attention Based Architecture for Saliency Prediction in 360◦  Videos**  [Paper](https://link.springer.com/chapter/10.1007/978-3-030-68796-0_22) [Code](https://github.com/mtliba/ATSal)（2020）
+- **Viewport-dependent Saliency Prediction in 360° Video**  [Paper](https://ieeexplore.ieee.org/abstract/document/9072511/)（2020）
+- **2D-Based Saliency Prediction Framework for Omnidirectional−360◦ Video**  [Paper](https://ieeexplore.ieee.org/abstract/document/9568999/)（2021）
 - **Spherical Vision Transformers for Audio-Visual Saliency Prediction in 360→ Videos**  [Paper](https://ieeexplore.ieee.org/abstract/document/11144923) [Code](https://cyberiada.github.io/SalViT360/)
 - **CASP: Consistency-aware Audio-induced Saliency Prediction Model for Omnidirectional Video**  [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wan_CASP_Consistency-aware_Audio-induced_Saliency_Prediction_Model_for_Omnidirectional_Video_CVPR_2025_paper.html)（2025）
 ### 2. 显著性目标检测(SOD)
@@ -50,6 +61,7 @@
 ### 显著性目标检测(SOD)数据集
 #### 全景图像（ODI）
 - **360-SOD** [dataset]
+- **360-SSOD** [dataset](https://github.com/360-SSOD/download/tree/main)
 - **ODI-SOD** [dataset](https://github.com/iCVTEAM/ODI-SOD)
 #### 全景视频（ODV）
 - **PAV-SOD** [dataset](https://github.com/ZHANG-Jun-Pu/PAV-SOD)
