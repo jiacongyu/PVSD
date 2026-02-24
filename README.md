@@ -22,6 +22,7 @@
 #### 传统方法
 - **Automatic Salient Object Detection for Panoramic Images Using Region Growing and Fixation Prediction Model**  [Paper](https://arxiv.org/abs/1710.04071)（2018）
 #### 深度学习方法
+- **Distortion-adaptive Salient Object Detection in 360 Omnidirectional Images**  [Paper](https://ieeexplore.ieee.org/abstract/document/8926489/) [Code]（2019）
 - **Consistency perception network for 360◦  omnidirectional salient object detection**  [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224020149)（2025）
 - **Breaking the Dataset Shackles: Data-Efficient Learning with Mamba Network for 360° Salient Object Detection**   [Paper](https://iopscience.iop.org/article/10.1088/1742-6596/3072/1/012004/meta)（2025）
 
@@ -46,7 +47,9 @@
 - **360saliency** [dataset,code:p0a5](https://pan.baidu.com/s/18equcFntAomwEEP3TgHhFw)
 - **Wild-360** [dataset](https://aliensunmin.github.io/project/360saliency/)
 - **PVS-HMEM** [dataset](https://github.com/YuhangSong/DHP)
+### 显著性目标检测(SOD)数据集
 #### 全景图像（ODI）
+- **360-SOD** [dataset]
 - **ODI-SOD** [dataset](https://github.com/iCVTEAM/ODI-SOD)
 #### 全景视频（ODV）
 - **PAV-SOD** [dataset](https://github.com/ZHANG-Jun-Pu/PAV-SOD)
