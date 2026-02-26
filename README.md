@@ -19,9 +19,9 @@
 - **SalBiNet360: Saliency Prediction on 360° Images with Local-Global Bifurcated Deep Network**  [Paper](https://ieeexplore.ieee.org/abstract/document/9089519/) [Code](https://github.com/githubcbob/SalBiNet360)（2020）
 - **SalGCN: Saliency Prediction for 360-Degree ImagesBased on Spherical Graph**  [Paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413733)（2020）
 - **Dilated Convolutional Neural Networks for Panoramic Image Saliency Prediction**  [Paper](https://ieeexplore.ieee.org/abstract/document/9053888/)（2020）
-- **A Multi-FoV Viewport-based Visual Saliency Model Using Adaptive Weighting Losses for 360 Images**  [Paper](https://ieeexplore.ieee.org/abstract/document/9122430/)[Code](https://github.com/FannyChao/MV-SalGAN360)（2021）
-- **Saliency Prediction on Omnidirectional Images with Generative Adversarial Imitation Learning**  [Paper](https://ieeexplore.ieee.org/abstract/document/9328187/)[Code](https://github.com/yanglixiaoshen/SalGAIL)（2021）
-- **Rethinking 360° Image Visual Attention Modelling with Unsupervised Learning**  [Paper](http://openaccess.thecvf.com/content/ICCV2021/html/Djilali_Rethinking_360deg_Image_Visual_Attention_Modelling_With_Unsupervised_Learning._ICCV_2021_paper.html)[Code](https://github.com/yanglixiaoshen/SalGAIL)（2021）
+- **A Multi-FoV Viewport-based Visual Saliency Model Using Adaptive Weighting Losses for 360 Images**  [Paper](https://ieeexplore.ieee.org/abstract/document/9122430/) [Code](https://github.com/FannyChao/MV-SalGAN360)（2021）
+- **Saliency Prediction on Omnidirectional Images with Generative Adversarial Imitation Learning**  [Paper](https://ieeexplore.ieee.org/abstract/document/9328187/) [Code](https://github.com/yanglixiaoshen/SalGAIL)（2021）
+- **Rethinking 360° Image Visual Attention Modelling with Unsupervised Learning**  [Paper](http://openaccess.thecvf.com/content/ICCV2021/html/Djilali_Rethinking_360deg_Image_Visual_Attention_Modelling_With_Unsupervised_Learning._ICCV_2021_paper.html) [Code](https://github.com/yanglixiaoshen/SalGAIL)（2021）
 - **360-degree visual saliency detection based on fast-mapped convolution and adaptive equator-bias perception**  [Paper](https://link.springer.com/article/10.1007/s00371-021-02395-w)（2023）
 - **360-degree visual saliency detection based on fast-mapped convolution and adaptive equator-bias perception**  [Paper](https://www.sciencedirect.com/science/article/pii/S1051200421003286)（2022）
 - **Hierarchical Bayesian LSTM for Head Trajectory Prediction on Omnidirectional Images**  [Paper](https://ieeexplore.ieee.org/abstract/document/9556612/)（2021）
@@ -55,7 +55,7 @@
 - **ATSal: An Attention Based Architecture for Saliency Prediction in 360◦  Videos**  [Paper](https://link.springer.com/chapter/10.1007/978-3-030-68796-0_22) [Code](https://github.com/mtliba/ATSal)（2020）
 - **Viewport-dependent Saliency Prediction in 360° Video**  [Paper](https://ieeexplore.ieee.org/abstract/document/9072511/)（2020）
 - **2D-Based Saliency Prediction Framework for Omnidirectional−360◦ Video**  [Paper](https://ieeexplore.ieee.org/abstract/document/9568999/)（2021）
-- **Panoramic Vision Transformer for Saliency Detection in 360◦  Videos**  [Paper](https://link.springer.com/chapter/10.1007/978-3-031-19833-5_25)[Code](https://github.com/HS-YN/PAVER)（2022）
+- **Panoramic Vision Transformer for Saliency Detection in 360◦  Videos**  [Paper](https://link.springer.com/chapter/10.1007/978-3-031-19833-5_25) [Code](https://github.com/HS-YN/PAVER)（2022）
 - **Spherical Convolution Empowered Viewport Prediction in 360 Video Multicast with Limited FoV Feedback**  [Paper]([https://ieeexplore.ieee.org/abstract/document/9568999/](https://dl.acm.org/doi/abs/10.1145/3511603))（2023）
 - **Spherical Vision Transformers for Audio-Visual Saliency Prediction in 360→ Videos**  [Paper](https://ieeexplore.ieee.org/abstract/document/11144923) [Code](https://cyberiada.github.io/SalViT360/)
 - **CASP: Consistency-aware Audio-induced Saliency Prediction Model for Omnidirectional Video**  [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wan_CASP_Consistency-aware_Audio-induced_Saliency_Prediction_Model_for_Omnidirectional_Video_CVPR_2025_paper.html)（2025）
