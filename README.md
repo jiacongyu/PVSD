@@ -19,6 +19,12 @@
 - **SalBiNet360: Saliency Prediction on 360° Images with Local-Global Bifurcated Deep Network**  [Paper](https://ieeexplore.ieee.org/abstract/document/9089519/) [Code](https://github.com/githubcbob/SalBiNet360)（2020）
 - **SalGCN: Saliency Prediction for 360-Degree ImagesBased on Spherical Graph**  [Paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413733)（2020）
 - **Dilated Convolutional Neural Networks for Panoramic Image Saliency Prediction**  [Paper](https://ieeexplore.ieee.org/abstract/document/9053888/)（2020）
+- **A Multi-FoV Viewport-based Visual Saliency Model Using Adaptive Weighting Losses for 360 Images**  [Paper](https://ieeexplore.ieee.org/abstract/document/9122430/)[Code](https://github.com/FannyChao/MV-SalGAN360)（2021）
+- **Saliency Prediction on Omnidirectional Images with Generative Adversarial Imitation Learning**  [Paper](https://ieeexplore.ieee.org/abstract/document/9328187/)[Code](https://github.com/yanglixiaoshen/SalGAIL)（2021）
+- **Rethinking 360° Image Visual Attention Modelling with Unsupervised Learning**  [Paper](http://openaccess.thecvf.com/content/ICCV2021/html/Djilali_Rethinking_360deg_Image_Visual_Attention_Modelling_With_Unsupervised_Learning._ICCV_2021_paper.html)[Code](https://github.com/yanglixiaoshen/SalGAIL)（2021）
+- **360-degree visual saliency detection based on fast-mapped convolution and adaptive equator-bias perception**  [Paper](https://link.springer.com/article/10.1007/s00371-021-02395-w)（2023）
+- **360-degree visual saliency detection based on fast-mapped convolution and adaptive equator-bias perception**  [Paper](https://www.sciencedirect.com/science/article/pii/S1051200421003286)（2022）
+- **Hierarchical Bayesian LSTM for Head Trajectory Prediction on Omnidirectional Images**  [Paper](https://ieeexplore.ieee.org/abstract/document/9556612/)（2021）
 - **From Haziness to Clarity: A Novel Iterative Memory-Retrospective Emergence Model for Omnidirectional Image Saliency Prediction**  [Paper](https://ieeexplore.ieee.org/abstract/document/11045255/)（2025）
 - **Multi-scale graph feature extraction network for panoramic image saliency detection**   [Paper](https://link.springer.com/article/10.1007/s00371-023-02825-x)
 
@@ -28,9 +34,14 @@
 #### 深度学习方法
 - **Distortion-adaptive Salient Object Detection in 360 Omnidirectional Images**  [Paper](https://ieeexplore.ieee.org/abstract/document/8926489/) [Code](https://pan.baidu.com/s/1o1jkdMMWMr-TQFIERCtwng?pwd=imqc)（2019）
 - **FANet: Features Adaptation Network for 360◦ Omnidirectional Salient Object Detection**  [Paper](https://ieeexplore.ieee.org/abstract/document/9211754/) [Code](https://github.com/DreaMKHuang/FANet.git)（2020）
-- **Stage-wise Salient Object Detection in 360° Omnidirectional Image via Object-level Semantical Saliency Ranking**  [Paper](https://ieeexplore.ieee.org/abstract/document/9199564/) [Code](https://github.com/360-SSOD/download/tree/main)（2018）
+- **Stage-wise Salient Object Detection in 360° Omnidirectional Image via Object-level Semantical Saliency Ranking**  [Paper](https://ieeexplore.ieee.org/abstract/document/9199564/) [Code](https://github.com/360-SSOD/download/tree/main)（2020）
+- **Multi-Projection Fusion and Refinement Network for Salient Object Detection in 360 Omnidirectional Image**  [Paper](https://ieeexplore.ieee.org/abstract/document/10012430/)（2023）
+- **View-aware Salient Object Detection for 360° Omnidirectional Image**  [Paper](https://ieeexplore.ieee.org/abstract/document/9900475/)（2022）
+- **Channel-Spatial Mutual Attention Network for 360° Salient Object Detection**  [Paper](https://ieeexplore.ieee.org/abstract/document/9956354/)[Code](https://github.com/YeeZ93/CSMA-Net)（2022）
 - **Consistency perception network for 360◦  omnidirectional salient object detection**  [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224020149)（2025）
 - **Breaking the Dataset Shackles: Data-Efficient Learning with Mamba Network for 360° Salient Object Detection**   [Paper](https://iopscience.iop.org/article/10.1088/1742-6596/3072/1/012004/meta)（2025）
+### 3. 扫视路径
+- **ScanGAN360: A Generative Model of Realistic Scanpaths for 360◦ Images**  [Paper](https://ieeexplore.ieee.org/abstract/document/9714046/) （2022）
 
 ## 全景视频（ODV）
 ### 1. 显著性预测(SP)
@@ -44,6 +55,8 @@
 - **ATSal: An Attention Based Architecture for Saliency Prediction in 360◦  Videos**  [Paper](https://link.springer.com/chapter/10.1007/978-3-030-68796-0_22) [Code](https://github.com/mtliba/ATSal)（2020）
 - **Viewport-dependent Saliency Prediction in 360° Video**  [Paper](https://ieeexplore.ieee.org/abstract/document/9072511/)（2020）
 - **2D-Based Saliency Prediction Framework for Omnidirectional−360◦ Video**  [Paper](https://ieeexplore.ieee.org/abstract/document/9568999/)（2021）
+- **Panoramic Vision Transformer for Saliency Detection in 360◦  Videos**  [Paper](https://link.springer.com/chapter/10.1007/978-3-031-19833-5_25)[Code](https://github.com/HS-YN/PAVER)（2022）
+- **Spherical Convolution Empowered Viewport Prediction in 360 Video Multicast with Limited FoV Feedback**  [Paper]([https://ieeexplore.ieee.org/abstract/document/9568999/](https://dl.acm.org/doi/abs/10.1145/3511603))（2023）
 - **Spherical Vision Transformers for Audio-Visual Saliency Prediction in 360→ Videos**  [Paper](https://ieeexplore.ieee.org/abstract/document/11144923) [Code](https://cyberiada.github.io/SalViT360/)
 - **CASP: Consistency-aware Audio-induced Saliency Prediction Model for Omnidirectional Video**  [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wan_CASP_Consistency-aware_Audio-induced_Saliency_Prediction_Model_for_Omnidirectional_Video_CVPR_2025_paper.html)（2025）
 ### 2. 显著性目标检测(SOD)
@@ -54,6 +67,7 @@
 ### 显著性预测(SP)数据集
 #### 全景图像（ODI）
 - **Saliency in VR** [dataset](https://drive.google.com/file/d/1BHtigR_egB6E-N4irZA9wSAH_902_PBh/view?usp=sharing)
+- **AOI** [dataset](https://github.com/yanglixiaoshen/SalGAIL)
 #### 全景视频（ODV）
 - **360saliency** [dataset,code:p0a5](https://pan.baidu.com/s/18equcFntAomwEEP3TgHhFw)
 - **Wild-360** [dataset](https://aliensunmin.github.io/project/360saliency/)
