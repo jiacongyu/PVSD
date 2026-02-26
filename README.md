@@ -37,7 +37,7 @@
 - **Stage-wise Salient Object Detection in 360° Omnidirectional Image via Object-level Semantical Saliency Ranking**  [Paper](https://ieeexplore.ieee.org/abstract/document/9199564/) [Code](https://github.com/360-SSOD/download/tree/main)（2020）
 - **Multi-Projection Fusion and Refinement Network for Salient Object Detection in 360 Omnidirectional Image**  [Paper](https://ieeexplore.ieee.org/abstract/document/10012430/)（2023）
 - **View-aware Salient Object Detection for 360° Omnidirectional Image**  [Paper](https://ieeexplore.ieee.org/abstract/document/9900475/)（2022）
-- **Channel-Spatial Mutual Attention Network for 360° Salient Object Detection**  [Paper](https://ieeexplore.ieee.org/abstract/document/9956354/)[Code](https://github.com/YeeZ93/CSMA-Net)（2022）
+- **Channel-Spatial Mutual Attention Network for 360° Salient Object Detection**  [Paper](https://ieeexplore.ieee.org/abstract/document/9956354/) [Code](https://github.com/YeeZ93/CSMA-Net)（2022）
 - **Consistency perception network for 360◦  omnidirectional salient object detection**  [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224020149)（2025）
 - **Breaking the Dataset Shackles: Data-Efficient Learning with Mamba Network for 360° Salient Object Detection**   [Paper](https://iopscience.iop.org/article/10.1088/1742-6596/3072/1/012004/meta)（2025）
 ### 3. 扫视路径
